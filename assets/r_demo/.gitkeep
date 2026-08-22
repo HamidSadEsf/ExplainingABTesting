@@ -1,0 +1,6 @@
+# Recorded walkthrough lives here as `dashboard-walkthrough.webm`
+# (regenerate with `node scripts/capture-walkthrough.js`).
+
+A ~14-second VP9 WebM showing all five sequences described in
+`docs/visual-walkthrough.md` — Clear Winner → Inconclusive → High Risk →
+Override & Audit → Prior Sensitivity.

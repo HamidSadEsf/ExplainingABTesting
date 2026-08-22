@@ -1,0 +1,10 @@
+# Add still frames of each UI state here (1440p PNG/JPG).
+
+Expected files:
+- `01-clear-winner.png`
+- `02-inconclusive.png`
+- `03-high-risk.png`
+- `04-override-modal.png`
+- `05-prior-sensitivity.png`
+
+See `docs/visual-walkthrough.md` for the exact capture steps and narrative.
