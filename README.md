@@ -72,13 +72,8 @@ meter — turning "maybe risky?" into a number a stakeholder can compare.
 
 ## Visual Walkthrough
 
-<video controls width="100%" height="auto" poster="./assets/screenshots/01-clear-winner.png">
-  <source src="./assets/r_demo/dashboard-walkthrough.webm" type="video/webm" />
-  Your browser does not support the video tag.
-  <a href="./assets/r_demo/dashboard-walkthrough.webm">Download the walkthrough (.webm)</a>
-</video>
-<br/>
-
+### [▶️ CLICK HERE TO VIEW THE DEMO RECORDING](./assets/r_demo/dashboard-walkthrough.webp)
+![Onboarding Pipeline Demo](./assets/r_demo/dashboard-walkthrough.webp)
 
 The dashboard supports five distinct decision states. Each state changes the
 banner, the rollout gate, the charts, and the risk meters — proving the
